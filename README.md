@@ -1,2 +1,2 @@
 # demo-pro
-this is demo for learning
+this is demo for learning.
